@@ -1,3 +1,3 @@
-## I Do Know 
+# I Do Know 
 
-# Simple React App that picks randomly an option from a given list.
+## Simple React App that picks randomly an option from a given list.
